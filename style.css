@@ -8,6 +8,7 @@ nav {
     display: flex;
     justify-content: space-between;
     align-items: center;
+    margin: 0px 230px;
 }
 
 .nav-title {
@@ -44,4 +45,22 @@ nav li {
 nav li>a {
     text-decoration: none;
     color: #474747;
+}
+
+/* header related style */
+.header {
+    /* width: 1600px;
+    height: 837px; */
+    background: #FFF8F3;
+}
+
+.banner {
+    padding: 30px 38px 30px 230px;
+    display: flex;
+    align-items: center;
+}
+
+.banner-img {
+    width: 584px;
+    height: 676px;
 }
